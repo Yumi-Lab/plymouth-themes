@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=RetroMi
+Description=display RetroMi logo
+Comment=created By Xtrack33 (@xtrack33)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/retromi
+ScriptFile=/usr/share/plymouth/themes/retromi/retromi.script
